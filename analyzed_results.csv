@@ -1,0 +1,6 @@
+id,text,Polarity_Score,Sentiment
+1,This product is absolutely fantastic and works like a charm!,0.5,Positive
+2,Terrible customer service. I am completely disappointed.,-0.875,Negative
+3,"It is okay, nothing special, just an average experience.",0.23571428571428574,Positive
+4,"Great value for money, highly recommended to everyone.",0.48000000000000004,Positive
+5,Awful quality. Broke after two days of use.,-1.0,Negative
